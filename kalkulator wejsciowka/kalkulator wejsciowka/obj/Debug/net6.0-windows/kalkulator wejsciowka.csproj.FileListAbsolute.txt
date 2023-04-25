@@ -1,0 +1,21 @@
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\bin\Debug\net6.0-windows\kalkulator wejsciowka.exe
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\bin\Debug\net6.0-windows\kalkulator wejsciowka.deps.json
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\bin\Debug\net6.0-windows\kalkulator wejsciowka.runtimeconfig.json
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\bin\Debug\net6.0-windows\kalkulator wejsciowka.dll
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\bin\Debug\net6.0-windows\kalkulator wejsciowka.pdb
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\obj\Debug\net6.0-windows\kalkulator wejsciowka.csproj.AssemblyReference.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\obj\Debug\net6.0-windows\kalkulator wejsciowka_MarkupCompile.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\obj\Debug\net6.0-windows\kalkulator wejsciowka_MarkupCompile.lref
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\obj\Debug\net6.0-windows\kalkulator wejsciowka.g.resources
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\obj\Debug\net6.0-windows\kalkulator wejsciowka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\obj\Debug\net6.0-windows\kalkulator wejsciowka.AssemblyInfoInputs.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\obj\Debug\net6.0-windows\kalkulator wejsciowka.AssemblyInfo.cs
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\obj\Debug\net6.0-windows\kalkulator wejsciowka.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\obj\Debug\net6.0-windows\kalkulator wejsciowka.dll
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\obj\Debug\net6.0-windows\refint\kalkulator wejsciowka.dll
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\obj\Debug\net6.0-windows\kalkulator wejsciowka.pdb
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\obj\Debug\net6.0-windows\kalkulator wejsciowka.genruntimeconfig.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\kalkulator wejsciowka\kalkulator wejsciowka\obj\Debug\net6.0-windows\ref\kalkulator wejsciowka.dll

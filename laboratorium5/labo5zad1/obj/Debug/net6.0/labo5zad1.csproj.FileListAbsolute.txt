@@ -1,0 +1,15 @@
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium5\labo5zad1\obj\Debug\net6.0\labo5zad1.csproj.AssemblyReference.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium5\labo5zad1\obj\Debug\net6.0\labo5zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium5\labo5zad1\obj\Debug\net6.0\labo5zad1.AssemblyInfoInputs.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium5\labo5zad1\obj\Debug\net6.0\labo5zad1.AssemblyInfo.cs
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium5\labo5zad1\obj\Debug\net6.0\labo5zad1.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium5\labo5zad1\bin\Debug\net6.0\labo5zad1.exe
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium5\labo5zad1\bin\Debug\net6.0\labo5zad1.deps.json
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium5\labo5zad1\bin\Debug\net6.0\labo5zad1.runtimeconfig.json
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium5\labo5zad1\bin\Debug\net6.0\labo5zad1.dll
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium5\labo5zad1\bin\Debug\net6.0\labo5zad1.pdb
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium5\labo5zad1\obj\Debug\net6.0\labo5zad1.dll
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium5\labo5zad1\obj\Debug\net6.0\refint\labo5zad1.dll
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium5\labo5zad1\obj\Debug\net6.0\labo5zad1.pdb
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium5\labo5zad1\obj\Debug\net6.0\labo5zad1.genruntimeconfig.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium5\labo5zad1\obj\Debug\net6.0\ref\labo5zad1.dll

@@ -1,0 +1,15 @@
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie 2\bin\Debug\net6.0\Zadanie 2.exe
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie 2\bin\Debug\net6.0\Zadanie 2.deps.json
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie 2\bin\Debug\net6.0\Zadanie 2.runtimeconfig.json
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie 2\bin\Debug\net6.0\Zadanie 2.dll
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie 2\bin\Debug\net6.0\Zadanie 2.pdb
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie 2\obj\Debug\net6.0\Zadanie 2.csproj.AssemblyReference.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie 2\obj\Debug\net6.0\Zadanie 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie 2\obj\Debug\net6.0\Zadanie 2.AssemblyInfoInputs.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie 2\obj\Debug\net6.0\Zadanie 2.AssemblyInfo.cs
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie 2\obj\Debug\net6.0\Zadanie 2.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie 2\obj\Debug\net6.0\Zadanie 2.dll
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie 2\obj\Debug\net6.0\refint\Zadanie 2.dll
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie 2\obj\Debug\net6.0\Zadanie 2.pdb
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie 2\obj\Debug\net6.0\Zadanie 2.genruntimeconfig.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie 2\obj\Debug\net6.0\ref\Zadanie 2.dll

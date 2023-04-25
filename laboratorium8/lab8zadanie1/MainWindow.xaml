@@ -1,0 +1,21 @@
+﻿<Window x:Class="lab8zadanie1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab8zadanie1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="500">
+    <Grid>
+        <Button x:Name="dodajStudenta" Content="Dodaj Studenta" HorizontalAlignment="Left" Margin="43,84,0,0" VerticalAlignment="Top" Width="184" Click="dodajStudenta_Click"/>
+        <Button x:Name="usunStudenta" Content="Usuń studenta" HorizontalAlignment="Left" Margin="250,84,0,0" VerticalAlignment="Top" Width="184" Click="usunStudenta_Click"/>
+        <DataGrid x:Name="dgStudenci" HorizontalAlignment="Left" Height="173" Margin="43,140,0,0" VerticalAlignment="Top" Width="391" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <WindowsFormsHost Height="100" Width="100"/>
+        <Button x:Name="zobaczOceny" Content="Oceny Studenta" HorizontalAlignment="Left" Margin="250,371,0,0" VerticalAlignment="Top" Width="184" Click="ocenyStudenta_Click"/>
+
+
+
+    </Grid>
+</Window>
+    
+    

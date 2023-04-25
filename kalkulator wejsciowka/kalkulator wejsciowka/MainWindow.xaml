@@ -1,0 +1,20 @@
+﻿<Window x:Class="kalkulator_wejsciowka.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kalkulator_wejsciowka"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400
+        " Width="300
+        ">
+    <Grid>
+        <Button x:Name="jedynka" Content="1" HorizontalAlignment="Left" Margin="50,169,0,0" VerticalAlignment="Top" Height="87" Width="58" Click="cyfra_Click"/>
+        <Button x:Name="dwojka" Content="2" HorizontalAlignment="Center" Margin="0,169,0,0" VerticalAlignment="Top" Height="87" Width="58" Click="cyfra_Click"/>
+        <Button x:Name="dodawanie" Content="+" HorizontalAlignment="Left" Margin="50,272,0,0" VerticalAlignment="Top" Height="88" Width="58" Click="dodawanie_Click"/>
+        <Button x:Name="mnozenie" Content="*" HorizontalAlignment="Center" Margin="0,272,0,0" VerticalAlignment="Top" Height="88" Width="58" Click="mnozenie_Click"/>
+        <TextBox x:Name="wyswietlacz" HorizontalAlignment="Center" Height="88" Margin="0,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200"/>
+        <Button Content="=" HorizontalAlignment="Left" Height="191" Margin="201,169,0,0" VerticalAlignment="Top" Width="49" Click="rownaSie_Click"/>
+
+    </Grid>
+</Window>

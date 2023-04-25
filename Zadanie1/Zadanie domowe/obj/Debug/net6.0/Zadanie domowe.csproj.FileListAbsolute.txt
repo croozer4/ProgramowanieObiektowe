@@ -1,0 +1,15 @@
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie domowe\bin\Debug\net6.0\Zadanie domowe.exe
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie domowe\bin\Debug\net6.0\Zadanie domowe.deps.json
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie domowe\bin\Debug\net6.0\Zadanie domowe.runtimeconfig.json
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie domowe\bin\Debug\net6.0\Zadanie domowe.dll
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie domowe\bin\Debug\net6.0\Zadanie domowe.pdb
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie domowe\obj\Debug\net6.0\Zadanie domowe.csproj.AssemblyReference.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie domowe\obj\Debug\net6.0\Zadanie domowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie domowe\obj\Debug\net6.0\Zadanie domowe.AssemblyInfoInputs.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie domowe\obj\Debug\net6.0\Zadanie domowe.AssemblyInfo.cs
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie domowe\obj\Debug\net6.0\Zadanie domowe.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie domowe\obj\Debug\net6.0\Zadanie domowe.dll
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie domowe\obj\Debug\net6.0\refint\Zadanie domowe.dll
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie domowe\obj\Debug\net6.0\Zadanie domowe.pdb
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie domowe\obj\Debug\net6.0\Zadanie domowe.genruntimeconfig.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Zadanie1\Zadanie domowe\obj\Debug\net6.0\ref\Zadanie domowe.dll

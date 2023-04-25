@@ -1,0 +1,15 @@
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium3\laboratorium3\labo3zadanie\obj\Debug\net6.0\labo3zadanie.csproj.AssemblyReference.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium3\laboratorium3\labo3zadanie\obj\Debug\net6.0\labo3zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium3\laboratorium3\labo3zadanie\obj\Debug\net6.0\labo3zadanie.AssemblyInfoInputs.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium3\laboratorium3\labo3zadanie\obj\Debug\net6.0\labo3zadanie.AssemblyInfo.cs
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium3\laboratorium3\labo3zadanie\obj\Debug\net6.0\labo3zadanie.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium3\laboratorium3\labo3zadanie\bin\Debug\net6.0\labo3zadanie.exe
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium3\laboratorium3\labo3zadanie\bin\Debug\net6.0\labo3zadanie.deps.json
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium3\laboratorium3\labo3zadanie\bin\Debug\net6.0\labo3zadanie.runtimeconfig.json
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium3\laboratorium3\labo3zadanie\bin\Debug\net6.0\labo3zadanie.dll
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium3\laboratorium3\labo3zadanie\bin\Debug\net6.0\labo3zadanie.pdb
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium3\laboratorium3\labo3zadanie\obj\Debug\net6.0\labo3zadanie.dll
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium3\laboratorium3\labo3zadanie\obj\Debug\net6.0\refint\labo3zadanie.dll
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium3\laboratorium3\labo3zadanie\obj\Debug\net6.0\labo3zadanie.pdb
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium3\laboratorium3\labo3zadanie\obj\Debug\net6.0\labo3zadanie.genruntimeconfig.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\laboratorium3\laboratorium3\labo3zadanie\obj\Debug\net6.0\ref\labo3zadanie.dll

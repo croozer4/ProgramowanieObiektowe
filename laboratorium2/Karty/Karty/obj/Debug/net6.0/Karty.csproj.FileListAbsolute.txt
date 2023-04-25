@@ -1,0 +1,15 @@
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Karty\Karty\obj\Debug\net6.0\Karty.csproj.AssemblyReference.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Karty\Karty\obj\Debug\net6.0\Karty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Karty\Karty\obj\Debug\net6.0\Karty.AssemblyInfoInputs.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Karty\Karty\obj\Debug\net6.0\Karty.AssemblyInfo.cs
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Karty\Karty\obj\Debug\net6.0\Karty.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Karty\Karty\bin\Debug\net6.0\Karty.exe
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Karty\Karty\bin\Debug\net6.0\Karty.deps.json
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Karty\Karty\bin\Debug\net6.0\Karty.runtimeconfig.json
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Karty\Karty\bin\Debug\net6.0\Karty.dll
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Karty\Karty\bin\Debug\net6.0\Karty.pdb
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Karty\Karty\obj\Debug\net6.0\Karty.dll
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Karty\Karty\obj\Debug\net6.0\refint\Karty.dll
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Karty\Karty\obj\Debug\net6.0\Karty.pdb
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Karty\Karty\obj\Debug\net6.0\Karty.genruntimeconfig.cache
+C:\Users\Konrad\Desktop\pliki na studia\Semestr 4\Programowanie obiektowe\Karty\Karty\obj\Debug\net6.0\ref\Karty.dll

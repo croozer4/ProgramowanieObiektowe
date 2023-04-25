@@ -1,0 +1,21 @@
+﻿<Window x:Class="kolokwium.DodajHodowce"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kolokwium"
+        mc:Ignorable="d"
+        Title="Dodaj Hodowce" Height="308" Width="396">
+    <Grid>
+        <TextBox x:Name="tbImie" TextWrapping="Wrap" Margin="175,51,14,196"/>
+        <Label Content="Imie" Margin="32,48,159,163"/>
+        <TextBox x:Name="tbNazwisko" TextWrapping="Wrap" Margin="175,85,14,163"/>
+        <TextBox x:Name="tbStrona" TextWrapping="Wrap" Margin="175,117,14,129"/>
+        <TextBox x:Name="tbWiek" TextWrapping="Wrap" Margin="175,155,14,97" VerticalAlignment="Top"/>
+        <Label Content="Nazwisko" Margin="32,82,159,129"/>
+        <Label Content="Strona internetowa" Margin="32,114,150,97"/>
+        <Label Content="Wiek" Margin="32,147,159,64"/>
+        <Button x:Name="zatwierdz" Content="Zatwierdz" Margin="188,200,14,51" Click="zatwierdz_Click"/>
+
+    </Grid>
+</Window>
